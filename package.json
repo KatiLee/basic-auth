@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## For React Applications",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -27,6 +27,8 @@
     "pg": "^8.6.0",
     "sequelize": "^6.6.2",
     "sequelize-cli": "^6.2.0",
-    "sqlite3": "^5.0.2"
-  }
+    "sqlite3": "^5.0.2",
+    "supertest": "^6.3.3"
+  },
+  "devDependencies": {}
 }
